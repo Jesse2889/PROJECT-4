@@ -1,0 +1,36 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+.hero-body{
+  background-image: url('https://cdn.shopify.com/s/files/1/0255/9429/8467/products/air-jordan-4-retro-CU1110-010_1_nz5o55_1024x1024.jpg?v=1582848383');
+  background-repeat: no-repeat;
+  background-color: white;
+  background: size cover;
+  opacity:10 ;
+  background-attachment: fixed;
+  min-height: 90vh;
+}
+.title {
+  font-size: 90px;
+  margin: 20px;
+  //letter-spacing: 5px;
+  font-family: 'Khula', sans-serif;
+  // color:black;
+  text-decoration: 0;
+}
+.main-title {
+  font-size: 90px;
+  margin: 20px;
+  letter-spacing: 5px;
+  color: black;
+  text-decoration: 0;
+}
+
+.button {
+color: black;
+
+
+}  
