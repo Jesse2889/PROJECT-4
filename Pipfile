@@ -13,6 +13,7 @@ psycopg2-binary = "*"
 pyjwt = "*"
 django-cors-headers = "*"
 stripe = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.7"
